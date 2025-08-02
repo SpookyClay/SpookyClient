@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.SpookyClientMod.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"SpookyMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
