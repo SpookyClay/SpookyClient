@@ -1,9 +1,1 @@
-# Fabric Example Mod
-
-## Setup
-
-For setup instructions please see the [fabric documentation page](https://docs.fabricmc.net/develop/getting-started/setting-up-a-development-environment) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Hey, Im doing this for fun, i want to see how many things i can automate in minecraft through scripting. Dont use this to cheat <3
